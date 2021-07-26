@@ -15,6 +15,6 @@ Day 5|Submitted|Day 16|Submitted|Day 26|Not Started
 Day 6|Submitted|Day 17|Submitted|Day 27|Not Started
 Day 7|Submitted|Day 18|Submitted|Day 28|Not Started
 Day 8|Submitted|Day 19|Submitted|Day 29|Not Started
-Day 9|Submitted|Day 20|Underway|Day 30|Not Started
+Day 9|Submitted|Day 20|Submitted|Day 30|Not Started
 Day 10|Submitted|-|-|-|-
 
