@@ -8,7 +8,7 @@ Days 0-10|Status|Days 11-20|Status|Days 21-30|Status
 -|-|-|-|-|-
 Day 0|Submitted|Day 11|Submitted|Day 21|Submitted
 Day 1|Submitted|Day 12|Submitted|Day 22|Submitted
-Day 2|Submitted|Day 13|Submitted|Day 23|Underway
+Day 2|Submitted|Day 13|Submitted|Day 23|Submitted
 Day 3|Submitted|Day 14|Submitted|Day 24|Not Started
 Day 4|Submitted|Day 15|Submitted|Day 25|Not Started
 Day 5|Submitted|Day 16|Submitted|Day 26|Not Started
