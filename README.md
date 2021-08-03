@@ -14,7 +14,7 @@ Day 4|Submitted|Day 15|Submitted|Day 25|Submitted
 Day 5|Submitted|Day 16|Submitted|Day 26|Submitted
 Day 6|Submitted|Day 17|Submitted|Day 27|Submitted
 Day 7|Submitted|Day 18|Submitted|Day 28|Submitted
-Day 8|Submitted|Day 19|Submitted|Day 29|Underway
-Day 9|Submitted|Day 20|Submitted|Day 30|Underway
+Day 8|Submitted|Day 19|Submitted|Day 29|Submitted
+Day 9|Submitted|Day 20|Submitted|Day 30|Challenge Complete!
 Day 10|Submitted|-|-|-|-
 
