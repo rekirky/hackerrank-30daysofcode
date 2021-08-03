@@ -12,7 +12,7 @@ Day 2|Submitted|Day 13|Submitted|Day 23|Submitted
 Day 3|Submitted|Day 14|Submitted|Day 24|Submitted
 Day 4|Submitted|Day 15|Submitted|Day 25|Submitted
 Day 5|Submitted|Day 16|Submitted|Day 26|Submitted
-Day 6|Submitted|Day 17|Submitted|Day 27|Underway
+Day 6|Submitted|Day 17|Submitted|Day 27|Submitted
 Day 7|Submitted|Day 18|Submitted|Day 28|Underway
 Day 8|Submitted|Day 19|Submitted|Day 29|Underway
 Day 9|Submitted|Day 20|Submitted|Day 30|Underway
